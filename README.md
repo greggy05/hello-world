@@ -19,3 +19,4 @@ I'll be teaching these courses:
   <li>Economics</li>
   <li>Statistics</li>
   <li>Data management and Analysis</li>
+</ol>
