@@ -19,3 +19,5 @@ I'll be teaching these courses:
   <li>Statistics</li>
   <li>Data management and Analysis</li>
 </ol>
+
+This is a new change, just to see what happens.
